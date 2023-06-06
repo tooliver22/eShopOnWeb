@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 72e8c4c7-76d5-4f09-90b0-4f7da1cff98e
-  WEBAPP-NAME: az400-webapp-Tom_WA
+  WEBAPP-NAME: az400-webapp-Tom
 
 
 jobs:
